@@ -1,0 +1,24 @@
+{
+  "version": "1.0.0",
+  "name": "SimpleImage",
+  "description": "An image library with a simple API, well-suited for CS0/CS1-style courses",
+  "url": "https://github.com/wadefagen/SimpleImage",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wadefagen/SimpleImage"
+  },
+  "keywords": [
+    "image library",
+    "image api",
+    "cs0",
+    "cs1"
+  ],
+  "author": "Wade Fagen-Ulmschneider <waf@illinois.edu> (http://wadefagen.com/)",
+  "contributors": [],
+  "main": "./SimpleImage.js",
+  "directories": {},
+  "engines": {
+    "node": "*"
+  }
+}

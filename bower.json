@@ -1,0 +1,8 @@
+{
+  "name": "SimpleImage",
+  "repository": "wadefagen/SimpleImage",
+  "version": "1.0.0",
+  "main": "SimpleImage.js",
+  "scripts": ["SimpleImage.js"],
+  "license": "MIT"
+}
